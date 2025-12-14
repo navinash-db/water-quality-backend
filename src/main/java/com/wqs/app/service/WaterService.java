@@ -21,5 +21,6 @@ public interface WaterService {
     WaterReading updateReading(Long id, WaterRequest request);
 
     String deleteById(Long id);
+    
 
 }
