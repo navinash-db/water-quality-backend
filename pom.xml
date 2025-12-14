@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>com.wqs</groupId>
-    <artifactId>water-quality-system</artifactId>
+    <artifactId>water-quality-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>water-quality-system</name>
     <description>Water Quality Monitoring System</description>
